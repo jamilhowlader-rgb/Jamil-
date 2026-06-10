@@ -267,9 +267,9 @@ a {
 .progetto-immagine {
   width: 100%;
   height: 180px;
-  background: var(--colore-card);
+  background: black;
   display: flex;
- 
+  align-items: center;
   justify-content: center;
   font-family: var(--font-titoli);
   font-size: 12px;
