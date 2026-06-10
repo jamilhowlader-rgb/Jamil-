@@ -269,7 +269,7 @@ a {
   height: 180px;
   background: var(--colore-card);
   display: flex;
-  align-items: center;
+ 
   justify-content: center;
   font-family: var(--font-titoli);
   font-size: 12px;
