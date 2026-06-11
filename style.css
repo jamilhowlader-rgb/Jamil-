@@ -3,12 +3,12 @@
    Cambiarle qui le cambia su TUTTE le pagine
    ============================================= */
 :root {
-  --colore-sfondo:     #a7e0a0;
-  --colore-testo:      #1a1a1a;
-  --colore-testo-muto: #2a2626;
-  --colore-accento:    #2563eb;   /* ✏️ cambia questo colore con il tuo preferito */
-  --colore-bordo:      #e5e5e5;
-  --colore-card:       #f8f8f8;
+ --colore-sfondo:     #eef2eb;
+--colore-testo:      #141414;
+--colore-testo-muto: #5c6358;
+--colore-accento:    #1a1a1a;
+--colore-bordo:      #d8ddd4;
+--colore-card:       #f5f7f3;
 
   --font-titoli: 'IBM Plex Mono', monospace;
   --font-testo:  'IBM Plex Sans', sans-serif;
