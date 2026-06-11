@@ -3,11 +3,11 @@
    Cambiarle qui le cambia su TUTTE le pagine
    ============================================= */
 :root {
---colore-sfondo:     #0d1117;
+--colore-sfondo:     #152235;
 --colore-testo:      #f2f0eb;
 --colore-testo-muto: #8a8680;
 --colore-accento:    #d4a853;
---colore-bordo:      #222028;
+--colore-bordo:      #7c769e;
 --colore-card:       #18161c;
 
   --font-titoli: 'IBM Plex Mono', monospace;
